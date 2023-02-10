@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             
+             
+             
+             x:Class="App12.Views.StudentPage" Background="LightGray">
+    
+    
+    
+    <StackLayout>
+        <StackLayout x:Name="friendStack">
+          
+            
+            
+        
+            
+            <Label Text="Фио студента:"/>
+            <Entry Text="{Binding FIO}" TextChanged="Entry_TextChanged" FontSize="Medium" />
+            <Label Text="Улица:" />
+            <Entry Text="{Binding Street}" FontSize="Medium" />
+            <Label Text="Квартира:" />
+            <Entry Text="{Binding Apartament}" FontSize="Medium" />
+            <Label Text="Дом:" />
+           
+            
+            
+            <Entry Text="{Binding House}" FontSize="Medium" />
+        </StackLayout>
+        <StackLayout Orientation="Vertical">
+            <Button CornerRadius="50" BackgroundColor="White"
+                                Text="Добавить" BorderColor="Red"
+                                BorderWidth="1.5" Command="{Binding ListViewModel.SaveFriendCommand}" CommandParameter="{Binding}" />
+            
+            
+            <Button CornerRadius="50" BackgroundColor="White"
+                                Text="Редактировать" BorderColor="Red"
+                                BorderWidth="1.5" Command="{Binding ListViewModel.SaveFriendCommand}" CommandParameter="{Binding}" />
+            
+            
+            <Button CornerRadius="50" BackgroundColor="White"
+                                BorderColor="Red"
+                                BorderWidth="1.5" Text="Удалить" Command="{Binding ListViewModel.DeleteFriendCommand}" CommandParameter="{Binding}" />
+            
+            
+            <Button CornerRadius="50" BackgroundColor="White"
+                              BorderColor="Red"
+                                BorderWidth="1.5"
+                Text="Назад" Command="{Binding Path=ListViewModel.BackCommand}" />
+        
+        
+        
+        
+        </StackLayout>
+    </StackLayout>
+</ContentPage>

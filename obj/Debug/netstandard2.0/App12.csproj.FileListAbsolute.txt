@@ -1,0 +1,138 @@
+C:\Users\исп-44\Desktop\Тестовый\App12\App12\App12\bin\Debug\netstandard2.0\App12.deps.json
+C:\Users\исп-44\Desktop\Тестовый\App12\App12\App12\bin\Debug\netstandard2.0\App12.dll
+C:\Users\исп-44\Desktop\Тестовый\App12\App12\App12\bin\Debug\netstandard2.0\App12.pdb
+C:\Users\исп-44\Desktop\Тестовый\App12\App12\App12\obj\Debug\netstandard2.0\App12.csproj.AssemblyReference.cache
+C:\Users\исп-44\Desktop\Тестовый\App12\App12\App12\obj\Debug\netstandard2.0\App12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\исп-44\Desktop\Тестовый\App12\App12\App12\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\исп-44\Desktop\Тестовый\App12\App12\App12\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Users\исп-44\Desktop\Тестовый\App12\App12\App12\obj\Debug\netstandard2.0\App12.AssemblyInfoInputs.cache
+C:\Users\исп-44\Desktop\Тестовый\App12\App12\App12\obj\Debug\netstandard2.0\App12.AssemblyInfo.cs
+C:\Users\исп-44\Desktop\Тестовый\App12\App12\App12\obj\Debug\netstandard2.0\App12.csproj.CoreCompileInputs.cache
+C:\Users\исп-44\Desktop\Тестовый\App12\App12\App12\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\исп-44\Desktop\Тестовый\App12\App12\App12\obj\Debug\netstandard2.0\App12.dll
+C:\Users\исп-44\Desktop\Тестовый\App12\App12\App12\obj\Debug\netstandard2.0\refint\App12.dll
+C:\Users\исп-44\Desktop\Тестовый\App12\App12\App12\obj\Debug\netstandard2.0\App12.pdb
+C:\Users\исп-44\Desktop\Тестовый\App12\App12\App12\obj\Debug\netstandard2.0\ref\App12.dll
+C:\Users\исп-44\Desktop\Тестовый\App12\App12\App12\obj\Debug\netstandard2.0\Views\FriendPage.xaml.g.cs
+C:\Users\исп-44\Desktop\Тестовый\App12\App12\App12\obj\Debug\netstandard2.0\Views\FriendsListPage.xaml.g.cs
+C:\Users\исп-44\Desktop\Тестовый — копия\App12\App12\App12\bin\Debug\netstandard2.0\App12.deps.json
+C:\Users\исп-44\Desktop\Тестовый — копия\App12\App12\App12\bin\Debug\netstandard2.0\App12.dll
+C:\Users\исп-44\Desktop\Тестовый — копия\App12\App12\App12\bin\Debug\netstandard2.0\App12.pdb
+C:\Users\исп-44\Desktop\Тестовый — копия\App12\App12\App12\obj\Debug\netstandard2.0\App12.csproj.AssemblyReference.cache
+C:\Users\исп-44\Desktop\Тестовый — копия\App12\App12\App12\obj\Debug\netstandard2.0\App12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\исп-44\Desktop\Тестовый — копия\App12\App12\App12\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\исп-44\Desktop\Тестовый — копия\App12\App12\App12\obj\Debug\netstandard2.0\Views\FriendPage.xaml.g.cs
+C:\Users\исп-44\Desktop\Тестовый — копия\App12\App12\App12\obj\Debug\netstandard2.0\Views\FriendsListPage.xaml.g.cs
+C:\Users\исп-44\Desktop\Тестовый — копия\App12\App12\App12\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Users\исп-44\Desktop\Тестовый — копия\App12\App12\App12\obj\Debug\netstandard2.0\App12.AssemblyInfoInputs.cache
+C:\Users\исп-44\Desktop\Тестовый — копия\App12\App12\App12\obj\Debug\netstandard2.0\App12.AssemblyInfo.cs
+C:\Users\исп-44\Desktop\Тестовый — копия\App12\App12\App12\obj\Debug\netstandard2.0\App12.csproj.CoreCompileInputs.cache
+C:\Users\исп-44\Desktop\Тестовый — копия\App12\App12\App12\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\исп-44\Desktop\Тестовый — копия\App12\App12\App12\obj\Debug\netstandard2.0\App12.dll
+C:\Users\исп-44\Desktop\Тестовый — копия\App12\App12\App12\obj\Debug\netstandard2.0\refint\App12.dll
+C:\Users\исп-44\Desktop\Тестовый — копия\App12\App12\App12\obj\Debug\netstandard2.0\App12.pdb
+C:\Users\исп-44\Desktop\Тестовый — копия\App12\App12\App12\obj\Debug\netstandard2.0\ref\App12.dll
+C:\Users\zolot\Desktop\Новая папка (5)\Тестовый — копия\Тестовый — копия\App12\App12\App12\bin\Debug\netstandard2.0\App12.deps.json
+C:\Users\zolot\Desktop\Новая папка (5)\Тестовый — копия\Тестовый — копия\App12\App12\App12\bin\Debug\netstandard2.0\App12.dll
+C:\Users\zolot\Desktop\Новая папка (5)\Тестовый — копия\Тестовый — копия\App12\App12\App12\bin\Debug\netstandard2.0\App12.pdb
+C:\Users\zolot\Desktop\Новая папка (5)\Тестовый — копия\Тестовый — копия\App12\App12\App12\obj\Debug\netstandard2.0\App12.csproj.AssemblyReference.cache
+C:\Users\zolot\Desktop\Новая папка (5)\Тестовый — копия\Тестовый — копия\App12\App12\App12\obj\Debug\netstandard2.0\App12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zolot\Desktop\Новая папка (5)\Тестовый — копия\Тестовый — копия\App12\App12\App12\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\zolot\Desktop\Новая папка (5)\Тестовый — копия\Тестовый — копия\App12\App12\App12\obj\Debug\netstandard2.0\Views\FriendPage.xaml.g.cs
+C:\Users\zolot\Desktop\Новая папка (5)\Тестовый — копия\Тестовый — копия\App12\App12\App12\obj\Debug\netstandard2.0\Views\FriendsListPage.xaml.g.cs
+C:\Users\zolot\Desktop\Новая папка (5)\Тестовый — копия\Тестовый — копия\App12\App12\App12\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Users\zolot\Desktop\Новая папка (5)\Тестовый — копия\Тестовый — копия\App12\App12\App12\obj\Debug\netstandard2.0\App12.AssemblyInfoInputs.cache
+C:\Users\zolot\Desktop\Новая папка (5)\Тестовый — копия\Тестовый — копия\App12\App12\App12\obj\Debug\netstandard2.0\App12.AssemblyInfo.cs
+C:\Users\zolot\Desktop\Новая папка (5)\Тестовый — копия\Тестовый — копия\App12\App12\App12\obj\Debug\netstandard2.0\App12.csproj.CoreCompileInputs.cache
+C:\Users\zolot\Desktop\Новая папка (5)\Тестовый — копия\Тестовый — копия\App12\App12\App12\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\zolot\Desktop\Новая папка (5)\Тестовый — копия\Тестовый — копия\App12\App12\App12\obj\Debug\netstandard2.0\App12.dll
+C:\Users\zolot\Desktop\Новая папка (5)\Тестовый — копия\Тестовый — копия\App12\App12\App12\obj\Debug\netstandard2.0\refint\App12.dll
+C:\Users\zolot\Desktop\Новая папка (5)\Тестовый — копия\Тестовый — копия\App12\App12\App12\obj\Debug\netstandard2.0\App12.pdb
+C:\Users\zolot\Desktop\Новая папка (5)\Тестовый — копия\Тестовый — копия\App12\App12\App12\obj\Debug\netstandard2.0\ref\App12.dll
+C:\Users\zolot\Desktop\Новая папка (5)\Тестовый — копия — копия\Тестовый — копия\App12\App12\App12\bin\Debug\netstandard2.0\App12.deps.json
+C:\Users\zolot\Desktop\Новая папка (5)\Тестовый — копия — копия\Тестовый — копия\App12\App12\App12\bin\Debug\netstandard2.0\App12.dll
+C:\Users\zolot\Desktop\Новая папка (5)\Тестовый — копия — копия\Тестовый — копия\App12\App12\App12\bin\Debug\netstandard2.0\App12.pdb
+C:\Users\zolot\Desktop\Новая папка (5)\Тестовый — копия — копия\Тестовый — копия\App12\App12\App12\obj\Debug\netstandard2.0\App12.csproj.AssemblyReference.cache
+C:\Users\zolot\Desktop\Новая папка (5)\Тестовый — копия — копия\Тестовый — копия\App12\App12\App12\obj\Debug\netstandard2.0\App12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zolot\Desktop\Новая папка (5)\Тестовый — копия — копия\Тестовый — копия\App12\App12\App12\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\zolot\Desktop\Новая папка (5)\Тестовый — копия — копия\Тестовый — копия\App12\App12\App12\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Users\zolot\Desktop\Новая папка (5)\Тестовый — копия — копия\Тестовый — копия\App12\App12\App12\obj\Debug\netstandard2.0\Views\StudentPage.xaml.g.cs
+C:\Users\zolot\Desktop\Новая папка (5)\Тестовый — копия — копия\Тестовый — копия\App12\App12\App12\obj\Debug\netstandard2.0\App12.AssemblyInfoInputs.cache
+C:\Users\zolot\Desktop\Новая папка (5)\Тестовый — копия — копия\Тестовый — копия\App12\App12\App12\obj\Debug\netstandard2.0\App12.AssemblyInfo.cs
+C:\Users\zolot\Desktop\Новая папка (5)\Тестовый — копия — копия\Тестовый — копия\App12\App12\App12\obj\Debug\netstandard2.0\App12.csproj.CoreCompileInputs.cache
+C:\Users\zolot\Desktop\Новая папка (5)\Тестовый — копия — копия\Тестовый — копия\App12\App12\App12\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\zolot\Desktop\Новая папка (5)\Тестовый — копия — копия\Тестовый — копия\App12\App12\App12\obj\Debug\netstandard2.0\App12.dll
+C:\Users\zolot\Desktop\Новая папка (5)\Тестовый — копия — копия\Тестовый — копия\App12\App12\App12\obj\Debug\netstandard2.0\refint\App12.dll
+C:\Users\zolot\Desktop\Новая папка (5)\Тестовый — копия — копия\Тестовый — копия\App12\App12\App12\obj\Debug\netstandard2.0\App12.pdb
+C:\Users\zolot\Desktop\Новая папка (5)\Тестовый — копия — копия\Тестовый — копия\App12\App12\App12\obj\Debug\netstandard2.0\ref\App12.dll
+C:\Users\zolot\Desktop\Новая папка (5)\Тестовый — копия — копия\Тестовый — копия\App12\App12\App12\obj\Debug\netstandard2.0\Views\StudentsListPage.xaml.g.cs
+C:\Users\zolot\Desktop\Илья\Xamarin 12\Xamarin 12\App12\App12\App12\bin\Debug\netstandard2.0\App12.deps.json
+C:\Users\zolot\Desktop\Илья\Xamarin 12\Xamarin 12\App12\App12\App12\bin\Debug\netstandard2.0\App12.dll
+C:\Users\zolot\Desktop\Илья\Xamarin 12\Xamarin 12\App12\App12\App12\bin\Debug\netstandard2.0\App12.pdb
+C:\Users\zolot\Desktop\Илья\Xamarin 12\Xamarin 12\App12\App12\App12\obj\Debug\netstandard2.0\App12.csproj.AssemblyReference.cache
+C:\Users\zolot\Desktop\Илья\Xamarin 12\Xamarin 12\App12\App12\App12\obj\Debug\netstandard2.0\App12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zolot\Desktop\Илья\Xamarin 12\Xamarin 12\App12\App12\App12\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\zolot\Desktop\Илья\Xamarin 12\Xamarin 12\App12\App12\App12\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Users\zolot\Desktop\Илья\Xamarin 12\Xamarin 12\App12\App12\App12\obj\Debug\netstandard2.0\Views\StudentPage.xaml.g.cs
+C:\Users\zolot\Desktop\Илья\Xamarin 12\Xamarin 12\App12\App12\App12\obj\Debug\netstandard2.0\Views\StudentsListPage.xaml.g.cs
+C:\Users\zolot\Desktop\Илья\Xamarin 12\Xamarin 12\App12\App12\App12\obj\Debug\netstandard2.0\App12.AssemblyInfoInputs.cache
+C:\Users\zolot\Desktop\Илья\Xamarin 12\Xamarin 12\App12\App12\App12\obj\Debug\netstandard2.0\App12.AssemblyInfo.cs
+C:\Users\zolot\Desktop\Илья\Xamarin 12\Xamarin 12\App12\App12\App12\obj\Debug\netstandard2.0\App12.csproj.CoreCompileInputs.cache
+C:\Users\zolot\Desktop\Илья\Xamarin 12\Xamarin 12\App12\App12\App12\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\zolot\Desktop\Илья\Xamarin 12\Xamarin 12\App12\App12\App12\obj\Debug\netstandard2.0\App12.dll
+C:\Users\zolot\Desktop\Илья\Xamarin 12\Xamarin 12\App12\App12\App12\obj\Debug\netstandard2.0\refint\App12.dll
+C:\Users\zolot\Desktop\Илья\Xamarin 12\Xamarin 12\App12\App12\App12\obj\Debug\netstandard2.0\App12.pdb
+C:\Users\zolot\Desktop\Илья\Xamarin 12\Xamarin 12\App12\App12\App12\obj\Debug\netstandard2.0\ref\App12.dll
+C:\Users\zolot\Desktop\Практические\Xamarin 12\Xamarin 12\App12\App12\App12\bin\Debug\netstandard2.0\App12.deps.json
+C:\Users\zolot\Desktop\Практические\Xamarin 12\Xamarin 12\App12\App12\App12\bin\Debug\netstandard2.0\App12.dll
+C:\Users\zolot\Desktop\Практические\Xamarin 12\Xamarin 12\App12\App12\App12\bin\Debug\netstandard2.0\App12.pdb
+C:\Users\zolot\Desktop\Практические\Xamarin 12\Xamarin 12\App12\App12\App12\obj\Debug\netstandard2.0\App12.csproj.AssemblyReference.cache
+C:\Users\zolot\Desktop\Практические\Xamarin 12\Xamarin 12\App12\App12\App12\obj\Debug\netstandard2.0\App12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zolot\Desktop\Практические\Xamarin 12\Xamarin 12\App12\App12\App12\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\zolot\Desktop\Практические\Xamarin 12\Xamarin 12\App12\App12\App12\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Users\zolot\Desktop\Практические\Xamarin 12\Xamarin 12\App12\App12\App12\obj\Debug\netstandard2.0\Views\StudentPage.xaml.g.cs
+C:\Users\zolot\Desktop\Практические\Xamarin 12\Xamarin 12\App12\App12\App12\obj\Debug\netstandard2.0\Views\StudentsListPage.xaml.g.cs
+C:\Users\zolot\Desktop\Практические\Xamarin 12\Xamarin 12\App12\App12\App12\obj\Debug\netstandard2.0\App12.AssemblyInfoInputs.cache
+C:\Users\zolot\Desktop\Практические\Xamarin 12\Xamarin 12\App12\App12\App12\obj\Debug\netstandard2.0\App12.AssemblyInfo.cs
+C:\Users\zolot\Desktop\Практические\Xamarin 12\Xamarin 12\App12\App12\App12\obj\Debug\netstandard2.0\App12.csproj.CoreCompileInputs.cache
+C:\Users\zolot\Desktop\Практические\Xamarin 12\Xamarin 12\App12\App12\App12\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\zolot\Desktop\Практические\Xamarin 12\Xamarin 12\App12\App12\App12\obj\Debug\netstandard2.0\App12.dll
+C:\Users\zolot\Desktop\Практические\Xamarin 12\Xamarin 12\App12\App12\App12\obj\Debug\netstandard2.0\refint\App12.dll
+C:\Users\zolot\Desktop\Практические\Xamarin 12\Xamarin 12\App12\App12\App12\obj\Debug\netstandard2.0\App12.pdb
+C:\Users\zolot\Desktop\Практические\Xamarin 12\Xamarin 12\App12\App12\App12\obj\Debug\netstandard2.0\ref\App12.dll
+C:\Users\исп-44\Desktop\Xamarin 12\Xamarin 12\App12\App12\App12\bin\Debug\netstandard2.0\App12.deps.json
+C:\Users\исп-44\Desktop\Xamarin 12\Xamarin 12\App12\App12\App12\bin\Debug\netstandard2.0\App12.dll
+C:\Users\исп-44\Desktop\Xamarin 12\Xamarin 12\App12\App12\App12\bin\Debug\netstandard2.0\App12.pdb
+C:\Users\исп-44\Desktop\Xamarin 12\Xamarin 12\App12\App12\App12\obj\Debug\netstandard2.0\App12.csproj.AssemblyReference.cache
+C:\Users\исп-44\Desktop\Xamarin 12\Xamarin 12\App12\App12\App12\obj\Debug\netstandard2.0\App12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\исп-44\Desktop\Xamarin 12\Xamarin 12\App12\App12\App12\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\исп-44\Desktop\Xamarin 12\Xamarin 12\App12\App12\App12\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Users\исп-44\Desktop\Xamarin 12\Xamarin 12\App12\App12\App12\obj\Debug\netstandard2.0\Views\StudentPage.xaml.g.cs
+C:\Users\исп-44\Desktop\Xamarin 12\Xamarin 12\App12\App12\App12\obj\Debug\netstandard2.0\Views\StudentsListPage.xaml.g.cs
+C:\Users\исп-44\Desktop\Xamarin 12\Xamarin 12\App12\App12\App12\obj\Debug\netstandard2.0\App12.AssemblyInfoInputs.cache
+C:\Users\исп-44\Desktop\Xamarin 12\Xamarin 12\App12\App12\App12\obj\Debug\netstandard2.0\App12.AssemblyInfo.cs
+C:\Users\исп-44\Desktop\Xamarin 12\Xamarin 12\App12\App12\App12\obj\Debug\netstandard2.0\App12.csproj.CoreCompileInputs.cache
+C:\Users\исп-44\Desktop\Xamarin 12\Xamarin 12\App12\App12\App12\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\исп-44\Desktop\Xamarin 12\Xamarin 12\App12\App12\App12\obj\Debug\netstandard2.0\App12.dll
+C:\Users\исп-44\Desktop\Xamarin 12\Xamarin 12\App12\App12\App12\obj\Debug\netstandard2.0\refint\App12.dll
+C:\Users\исп-44\Desktop\Xamarin 12\Xamarin 12\App12\App12\App12\obj\Debug\netstandard2.0\App12.pdb
+C:\Users\исп-44\Desktop\Xamarin 12\Xamarin 12\App12\App12\App12\obj\Debug\netstandard2.0\ref\App12.dll
+C:\Users\Admin\Desktop\App12\App12\App12\bin\Debug\netstandard2.0\App12.deps.json
+C:\Users\Admin\Desktop\App12\App12\App12\bin\Debug\netstandard2.0\App12.dll
+C:\Users\Admin\Desktop\App12\App12\App12\bin\Debug\netstandard2.0\App12.pdb
+C:\Users\Admin\Desktop\App12\App12\App12\obj\Debug\netstandard2.0\App12.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\App12\App12\App12\obj\Debug\netstandard2.0\App12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\App12\App12\App12\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Admin\Desktop\App12\App12\App12\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Users\Admin\Desktop\App12\App12\App12\obj\Debug\netstandard2.0\Views\StudentPage.xaml.g.cs
+C:\Users\Admin\Desktop\App12\App12\App12\obj\Debug\netstandard2.0\Views\StudentsListPage.xaml.g.cs
+C:\Users\Admin\Desktop\App12\App12\App12\obj\Debug\netstandard2.0\App12.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\App12\App12\App12\obj\Debug\netstandard2.0\App12.AssemblyInfo.cs
+C:\Users\Admin\Desktop\App12\App12\App12\obj\Debug\netstandard2.0\App12.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\App12\App12\App12\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Admin\Desktop\App12\App12\App12\obj\Debug\netstandard2.0\App12.dll
+C:\Users\Admin\Desktop\App12\App12\App12\obj\Debug\netstandard2.0\refint\App12.dll
+C:\Users\Admin\Desktop\App12\App12\App12\obj\Debug\netstandard2.0\App12.pdb
+C:\Users\Admin\Desktop\App12\App12\App12\obj\Debug\netstandard2.0\ref\App12.dll
+C:\Users\Admin\Desktop\App12\App12\App12\obj\Debug\netstandard2.0\Views\ListPage.xaml.g.cs
+C:\Users\Admin\Desktop\App12\App12\App12\obj\Debug\netstandard2.0\Views\PageMain.xaml.g.cs
